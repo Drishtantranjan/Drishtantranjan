@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Cold Mailers<br><br>🌱 I’m currently learning Spring and Microservices<br><br> 👨‍💻
-All of my projects are available at drishtant.me<br><br> 📝I regularly write articles on https://medium.com/@drishtantranjan11122000<br><br> 💬 Ask me about Android Apps, Flutter<br><br>📫 How to reach me rdrishtant54@gmail.com<br><br>page_facing_up Know about my experiences resume.drishtant.me<br>
+All of my projects are available at drishtant.me<br><br> 📝I regularly write articles on https://medium.com/@drishtantranjan11122000<br><br> 💬 Ask me about Android Apps, Flutter<br><br>📫 How to reach me rdrishtant54@gmail.com<br><br> 📄Know about my experiences resume.drishtant.me<br>
 
 
 ## 🌐 Socials:
