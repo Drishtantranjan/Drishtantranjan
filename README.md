@@ -1,7 +1,12 @@
-![Blue Modern Marketing Manager LinkedIn Banner](https://github.com/Drishtantranjan/Drishtantranjan/assets/84273332/a9c76c4e-db49-4057-8535-dbfd78a7964b)
 # 💫 About Me:
-🔭 I’m currently working on Cold Mailers<br><br>🌱 I’m currently learning Spring and Microservices<br><br> 👨‍💻
-All of my projects are available at drishtant.me<br><br> 📝I regularly write articles on https://medium.com/@drishtantranjan11122000<br><br> 💬 Ask me about Android Apps, Flutter<br><br>📫 How to reach me rdrishtant54@gmail.com<br><br> 📄Know about my experiences resume.drishtant.me<br>
+###
+I am a passionate mobile application developer with 2.3 years of experience, specializing in the Flutter framework and proficient in languages such as Kotlin, Swift, and Java. My expertise in cross-platform development is complemented by my knowledge of state management, MVVM and Clean Architectures, and libraries like Mapbox, Google Maps, and Firebase. Additionally, I am well-versed in working with REST APIs. I am excited to bring my skills and experience to create innovative and efficient mobile solutions.
+### 
+
+![Saint George (1)](https://github.com/Drishtantranjan/Drishtantranjan/assets/84273332/ccbda3ab-b54d-420b-9991-be7dbebd3c77)
+
+
+
 
 
 ## 🌐 Socials:
