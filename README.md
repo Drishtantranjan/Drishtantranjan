@@ -17,6 +17,21 @@ I am a passionate mobile application developer with 2.3 years of experience, spe
 ###
 ![Saint George (2)](https://github.com/Drishtantranjan/Drishtantranjan/assets/84273332/71771e1c-5ad8-4ea6-8ef8-95b314e6267c)
 
+## 🌐 Publications:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/61e0d376-0770-497f-b3c3-732dc6a5f123" width="30%" />
+  <img src="https://github.com/user-attachments/assets/9717166a-08a2-4b13-acc8-4bc1a8571bdc" width="30%" />
+    <img src="https://github.com/user-attachments/assets/0e64a436-f31d-4350-8984-d7b9980ffbbd" width="30%" />
+</p>
+
+
+
+
+
+
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Drishtantranjan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
