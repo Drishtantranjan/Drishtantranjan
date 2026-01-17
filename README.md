@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ###
 I am a passionate mobile application developer with 2.3 years of experience, specializing in the Flutter framework and proficient in languages such as Kotlin, Swift, and Java. My expertise in cross-platform development is complemented by my knowledge of state management, MVVM and Clean Architectures, and libraries like Mapbox, Google Maps, and Firebase. Additionally, I am well-versed in working with REST APIs. I am excited to bring my skills and experience to create innovative and efficient mobile solutions.
 ### 
