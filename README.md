@@ -1,6 +1,6 @@
 # About Me:
 ###
-I am a passionate mobile application developer with 2.3 years of experience, specializing in the Flutter framework and proficient in languages such as Kotlin, Swift, and Java. My expertise in cross-platform development is complemented by my knowledge of state management, MVVM and Clean Architectures, and libraries like Mapbox, Google Maps, and Firebase. Additionally, I am well-versed in working with REST APIs. I am excited to bring my skills and experience to create innovative and efficient mobile solutions.
+I am a passionate mobile application developer with 3.3 years of experience, specializing in the Flutter framework and proficient in languages such as Kotlin, Swift, and Java. My expertise in cross-platform development is complemented by my knowledge of state management, MVVM and Clean Architectures, and libraries like Mapbox, Google Maps, and Firebase. Additionally, I am well-versed in working with REST APIs. I am excited to bring my skills and experience to create innovative and efficient mobile solutions.
 ### 
 
 ![Saint George (1)](https://github.com/Drishtantranjan/Drishtantranjan/assets/84273332/ccbda3ab-b54d-420b-9991-be7dbebd3c77)
