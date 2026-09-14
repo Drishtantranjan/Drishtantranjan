@@ -1,46 +1,83 @@
-# About Me:
-###
-I am a passionate mobile application developer with 3.3 years of experience, specializing in the Flutter framework and proficient in languages such as Kotlin, Swift, and Java. My expertise in cross-platform development is complemented by my knowledge of state management, MVVM and Clean Architectures, and libraries like Mapbox, Google Maps, and Firebase. Additionally, I am well-versed in working with REST APIs. I am excited to bring my skills and experience to create innovative and efficient mobile solutions.
-### 
-
-![Saint George (1)](https://github.com/Drishtantranjan/Drishtantranjan/assets/84273332/ccbda3ab-b54d-420b-9991-be7dbebd3c77)
-
-
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drishtant-ranjan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@drishtantranjan11122000) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DrishtantRanja2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/c/stargazers_drishtantranjan) 
-
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-###
-![Saint George (2)](https://github.com/Drishtantranjan/Drishtantranjan/assets/84273332/71771e1c-5ad8-4ea6-8ef8-95b314e6267c)
-
-## 🌐 Publications:
+<h1 align="center">Hi, I'm Drishtant Ranjan Srivastava 👋</h1>
+<h3 align="center">Flutter/Mobile Engineer · 3+ Years Building Production Apps · Founder, Flutter Kanpur</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/61e0d376-0770-497f-b3c3-732dc6a5f123" width="30%" />
-  <img src="https://github.com/user-attachments/assets/9717166a-08a2-4b13-acc8-4bc1a8571bdc" width="30%" />
-    <img src="https://github.com/user-attachments/assets/0e64a436-f31d-4350-8984-d7b9980ffbbd" width="30%" />
+  <a href="https://www.linkedin.com/in/drishtant-ranjan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/DrishtantRanja2"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://medium.com/@drishtantranjan11122000"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://readme.flutterkanpur.in"><img src="https://img.shields.io/badge/ReadMe-1A73E8?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+  <a href="https://topmate.io/drishtant_ranjan"><img src="https://img.shields.io/badge/Topmate-FF6B4A?style=for-the-badge&logo=buymeacoffee&logoColor=white" /></a>
+  <a href="https://pub.dev/packages/shimmer_border_container"><img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
 </p>
 
+---
 
+### 🚀 About Me
 
+I'm a Software Engineer with **3+ years of experience** building scalable, production-grade mobile applications in **Flutter, Kotlin, and Swift** — currently at **Landmark Group**, previously **5Gen Care**. I specialize in cross-platform architecture (MVVM, Clean Architecture), state management (Riverpod, Bloc, Provider), and shipping apps end-to-end from idea to Play Store.
 
+Alongside product engineering, I founded and run **[Flutter Kanpur](https://github.com/Flutter-Kanpur)** — an officially recognized chapter of the **Google Flutter Meetup Network** — where I've run 100+ workshops, organized a 2-day flagship conference + hackathon (**Build With Framework**, 298 tickets sold, 120+ hackathon participants), and mentored teams to a 2/3 selection rate at Smart India Hackathon 2025.
 
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Drishtantranjan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Drishtantranjan&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Drishtantranjan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Drishtantranjan&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
+- 🏆 **Smart India Hackathon 2023** — National Winner (Ministry of Law & Justice)
+- 🥈 **Code Gladiators 2023** — Global Semi-Finalist, Top 1000 worldwide
+- 🎤 Spoken at **GDG Kanpur**, **Google Cloud Community Days Coimbatore**, and my own **Build With Framework** conference
+- ✍️ 8 published technical articles (Medium + [ReadMe](https://readme.flutterkanpur.in)) — 150+ combined claps
+- 📦 Published **[shimmer_border_container](https://pub.dev/packages/shimmer_border_container)** on pub.dev
+- 🎬 A community storytelling video with **31.9K views** on YouTube
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Drishtantranjan&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| **[Flutter-Kanpur-App-2.0](https://github.com/Flutter-Kanpur/Flutter-Kanpur-App-2.0)** | Flagship community app — Supabase backend, voice search |
+| **[readmeApp](https://github.com/Flutter-Kanpur/readmeApp)** | Community blogging platform ([live](https://readme.flutterkanpur.in)) embedded via single-sign-on "super app" architecture |
+| **[Flutter-Kanpur-Ui-Kit](https://github.com/Flutter-Kanpur/Flutter-Kanpur-Ui-Kit)** | Open-source, MIT-licensed Flutter component kit |
+| **[shimmer_border_container](https://pub.dev/packages/shimmer_border_container)** | Published Dart/Flutter package — animated gradient-border widgets |
+| **Royal Riders** | Independently built & published Flutter app on Google Play |
+| **AnyThoughts** | AI chatbot app built on ChatGPT, published on Google Play |
+
+---
+
+### ✍️ Latest Writing
+
+- [Framework 1.0: Where Ideas Turned Into Execution](https://medium.com/@drishtantranjan11122000/framework-1-0-where-ideas-turned-into-execution-ea7a0f040487) — Medium, Apr 2026
+- [Shipping Faster with Flutter: Practical Hotfixes Using Shorebird](https://medium.com/@drishtantranjan11122000/shipping-faster-with-flutter-practical-hotfixes-using-shorebird-0a0a62f65753) — Medium, Feb 2026
+- [We Saw a Website, Got an Idea, and Built an App in 4 Hours 🇮🇳](https://readme.flutterkanpur.in/blogs/articles/8be064e6-5e41-4efe-8648-60d9cb0c21c4) — ReadMe, Aug 2026
+
+---
+
+### 📊 GitHub Stats
+
+**990 total contributions** since May 2021 · **37-day** longest streak · 36 public repos · 11 stars earned
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drishtantranjan&hide_border=true" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+**[LinkedIn](https://www.linkedin.com/in/drishtant-ranjan/) · [X/Twitter](https://x.com/DrishtantRanja2) · [Medium](https://medium.com/@drishtantranjan11122000) · [Topmate — 1:1 mentorship](https://topmate.io/drishtant_ranjan) · [flutterkanpur.in](https://flutterkanpur.in)**
+
+<sub>Open to Flutter/mobile roles, speaking invites, and collaboration on developer-community projects.</sub>
