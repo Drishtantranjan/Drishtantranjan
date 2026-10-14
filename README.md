@@ -20,7 +20,7 @@ Alongside product engineering, I founded and run **[Flutter Kanpur](https://gith
 
 - 🏆 **Smart India Hackathon 2023** — National Winner (Ministry of Law & Justice)
 - 🥈 **Code Gladiators 2023** — Global Semi-Finalist, Top 1000 worldwide
-- 🎤 Spoken at **GDG Kanpur**, **Google Cloud Community Days Coimbatore**, and my own **Build With Framework** conference
+- 🎤 Spoken at **[Flutter South India 2026](https://southindia.nammaflutter.com/)** (Shorebird talk, Chennai), **GDG Kanpur**, **Google Cloud Community Days Coimbatore**, and my own **Build With Framework** conference
 - ✍️ 8 published technical articles (Medium + [ReadMe](https://readme.flutterkanpur.in)) — 150+ combined claps
 - 📦 Published **[shimmer_border_container](https://pub.dev/packages/shimmer_border_container)** on pub.dev
 - 🎬 A community storytelling video with **31.9K views** on YouTube
